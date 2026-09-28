@@ -1,0 +1,7 @@
+{
+  "name": "sn-loan-associates",
+  "version": "2.0.0",
+  "private": true,
+  "description": "SN Loan Associates website with enquiry notifications",
+  "engines": { "node": ">=18" }
+}
